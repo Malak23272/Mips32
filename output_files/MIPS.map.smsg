@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at ALU.v(1): object "A" differs only in case from object "a" in the same scope File: D:/final/ALU.v Line: 1
+Info (10281): Verilog HDL Declaration information at ALU.v(31): object "B" differs only in case from object "b" in the same scope File: D:/final/ALU.v Line: 31
